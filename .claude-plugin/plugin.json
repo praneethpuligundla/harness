@@ -1,5 +1,5 @@
 {
-  "name": "agent-harness",
+  "name": "harness",
   "version": "1.0.0",
   "description": "Long-running agent harness with progress tracking, git checkpoints, feature checklists, and session startup routines based on Anthropic's engineering best practices",
   "author": {

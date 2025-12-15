@@ -1,1 +1,1 @@
-# Agent harness hooks
+# Agent Harness Hooks
