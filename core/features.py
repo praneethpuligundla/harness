@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Feature checklist module for agent-harness.
+"""Feature checklist module for harness.
 
 Provides utilities for managing the claude-features.json file.
 """

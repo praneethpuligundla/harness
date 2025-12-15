@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Configuration management for agent-harness plugin.
+"""Configuration management for harness plugin.
 
 Supports three strictness levels:
 - relaxed: Suggestions only, no blocking

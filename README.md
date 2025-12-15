@@ -15,6 +15,18 @@ Based on: [Effective Harnesses for Long-Running Agents](https://www.anthropic.co
 
 ## Installation
 
+Install this plugin globally to enable it for all your Claude Code projects:
+
+```bash
+claude plugins:add praneethpuligundla/harness
+```
+
+Or install from URL:
+
+```bash
+claude plugins:add https://github.com/praneethpuligundla/harness
+```
+
 The plugin is installed at user scope and applies to all Claude Code projects.
 
 ## Usage
@@ -103,7 +115,7 @@ project/
 ## Plugin Structure
 
 ```
-agent-harness/
+harness/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── hooks/

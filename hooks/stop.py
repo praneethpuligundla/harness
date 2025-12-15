@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Stop hook for agent-harness plugin.
+"""Stop hook for harness plugin.
 
 Enhanced to provide blocking validation:
 1. Check if tests were run (if code was modified)

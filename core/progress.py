@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Progress tracking module for agent-harness.
+"""Progress tracking module for harness.
 
 Provides utilities for reading and writing to claude-progress.txt
 """

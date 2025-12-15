@@ -5,7 +5,7 @@
   "author": {
     "name": "Praneeth Puligundla"
   },
-  "repository": "https://github.com/praneethpuligundla/agent-harness",
+  "repository": "https://github.com/praneethpuligundla/harness",
   "keywords": [
     "long-running-agents",
     "progress-tracking",

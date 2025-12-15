@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SessionStart hook for agent-harness plugin.
+"""SessionStart hook for harness plugin.
 
 This hook runs at the start of each Claude Code session and:
 1. Checks if harness is initialized for the current project
