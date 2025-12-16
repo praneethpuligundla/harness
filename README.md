@@ -1,6 +1,8 @@
 # Agent Harness Plugin
 
-A Claude Code plugin implementing Anthropic's engineering best practices for effective long-running agent workflows.
+A lightweight Claude Code plugin implementing Anthropic's engineering best practices for effective long-running agent workflows.
+
+> For advanced context management with FIC (Flow-Information-Context) system, see [UltraHarness](https://github.com/praneethpuligundla/ultraharness)
 
 ## Overview
 
